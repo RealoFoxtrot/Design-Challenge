@@ -1,0 +1,1371 @@
+﻿Log file open, 07/27/21 16:29:34
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: VirtexDesignTest
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.202517
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebBrowserWidget
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusOpenXR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Optional extension XR_VARJO_quad_views is not available
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 3900X 12-Core Processor            , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Engine.ini]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Engine.ini]
+[2021.07.27-15.29.34:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Engine.ini]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Engine.ini]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.27-15.29.34:714][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Engine.ini]
+[2021.07.27-15.29.34:714][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Engine.ini]
+[2021.07.27-15.29.34:726][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:726][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.27-15.29.34:726][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.27-15.29.34:727][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.27-15.29.34:728][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.27-15.29.34:728][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.27-15.29.34:728][  0]LogHAL: Display: Platform has ~ 32 GB [34301960192 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.27-15.29.34:728][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.27-15.29.34:728][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.27-15.29.34:728][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Scalability.ini]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.27-15.29.34:729][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Engine.ini]
+[2021.07.27-15.29.34:729][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Virtex/Design-Challenge/Saved/Config/Windows/Editor.ini]
+[2021.07.27-15.29.34:729][  0]LogInit: Computer: GERVI
+[2021.07.27-15.29.34:729][  0]LogInit: User: darkh
+[2021.07.27-15.29.34:729][  0]LogInit: CPU Page size=4096, Cores=12
+[2021.07.27-15.29.34:729][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.27-15.29.34:729][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.07.27-15.29.34:729][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.27-15.29.34:729][  0]LogMemory: Process Physical Memory: 149.80 MB used, 149.80 MB peak
+[2021.07.27-15.29.34:729][  0]LogMemory: Process Virtual Memory: 134.20 MB used, 134.20 MB peak
+[2021.07.27-15.29.34:729][  0]LogMemory: Physical Memory: 15331.12 MB used,  17381.77 MB free, 32712.90 MB total
+[2021.07.27-15.29.34:729][  0]LogMemory: Virtual Memory: 134196216.00 MB used,  21508.41 MB free, 134217728.00 MB total
+[2021.07.27-15.29.34:734][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.27-15.29.34:771][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.27-15.29.34:771][  0]LogInit: Using OS detected language (en-GB).
+[2021.07.27-15.29.34:771][  0]LogInit: Using OS detected locale (en-GB).
+[2021.07.27-15.29.34:773][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.07.27-15.29.34:935][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.27-15.29.34:950][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.27-15.29.34:969][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.27-15.29.34:969][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.27-15.29.35:157][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.27-15.29.35:157][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.27-15.29.35:157][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.27-15.29.35:256][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.07.27-15.29.35:256][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.07.27-15.29.35:258][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.27-15.29.35:258][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.27-15.29.35:258][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.27-15.29.35:271][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.27-15.29.35:271][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.27-15.29.35:271][  0]LogWindows: EnumDisplayDevices:
+[2021.07.27-15.29.35:271][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.07.27-15.29.35:271][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.07.27-15.29.35:271][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.07.27-15.29.35:272][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.07.27-15.29.35:272][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.07.27-15.29.35:272][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.07.27-15.29.35:272][  0]LogD3D11RHI:   Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+[2021.07.27-15.29.35:272][  0]LogD3D11RHI:      Driver Date: 6-21-2021
+[2021.07.27-15.29.35:272][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.07.27-15.29.35:344][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.27-15.29.35:344][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.27-15.29.35:344][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.27-15.29.35:373][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.07.27-15.29.35:374][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.27-15.29.35:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.27-15.29.35:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.27-15.29.35:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.27-15.29.35:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.27-15.29.35:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.27-15.29.35:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.27-15.29.35:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.27-15.29.35:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.27-15.29.35:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.27-15.29.35:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.27-15.29.35:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.27-15.29.35:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.27-15.29.35:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.27-15.29.35:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.27-15.29.35:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.27-15.29.35:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.27-15.29.35:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.27-15.29.35:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.27-15.29.35:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.27-15.29.35:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.27-15.29.35:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.27-15.29.35:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.27-15.29.35:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.27-15.29.35:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.27-15.29.35:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.27-15.29.35:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.27-15.29.35:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.27-15.29.35:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.27-15.29.35:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.27-15.29.35:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.27-15.29.35:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.27-15.29.35:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.27-15.29.35:861][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.27-15.29.35:868][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.27-15.29.35:921][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.27-15.29.35:921][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (F:/Virtex/Design-Challenge/Intermediate/Shaders/WorkingDirectory/57540/).
+[2021.07.27-15.29.35:922][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/darkh/AppData/Local/Temp/UnrealShaderWorkingDir/12BE10984A12F52F1CD05E887C4C1049/'.
+[2021.07.27-15.29.35:922][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.27-15.29.35:922][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.27-15.29.36:554][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.27-15.29.36:606][  0]LogDerivedDataCache: Loaded boot cache 0.05s 97MB C:/Users/darkh/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.27-15.29.36:607][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/darkh/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.27-15.29.36:607][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Virtex/Design-Challenge/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.27-15.29.36:607][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.27-15.29.36:607][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Virtex/Design-Challenge/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.27-15.29.36:607][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.27-15.29.36:619][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.27-15.29.36:619][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.27-15.29.36:619][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.27-15.29.36:626][  0]LogDerivedDataCache: Speed tests for C:/Users/darkh/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.07.27-15.29.36:626][  0]LogDerivedDataCache: Display: Performance to C:/Users/darkh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1364.98MBs, RandomWriteSpeed=166.67MBs. Assigned SpeedClass 'Local'
+[2021.07.27-15.29.36:626][  0]LogDerivedDataCache: Using Local data cache path C:/Users/darkh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.27-15.29.36:627][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.27-15.29.36:627][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.27-15.29.36:668][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.27-15.29.36:668][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.27-15.29.36:692][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2021.07.27-15.29.36:891][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.27-15.29.36:891][  0]LogInit: Active device profile: [0000020DD10AFD00][0000020DC6C99CC0 49] Windows
+[2021.07.27-15.29.36:891][  0]LogInit: Profiles: [0000020DD10AFD00][0000020DC6C99CC0 49] Windows, [0000020DD1064400][0000020DC6CA0180 49] WindowsNoEditor, [0000020DD10AC500][0000020DC6CA4300 49] WindowsServer, [0000020DD1067B00][0000020DC6CA8480 49] WindowsClient, [0000020DD10AF900][0000020DC6CAC600 49] IOS, [0000020DD1064800][0000020DC6CB0780 49] iPadAir, [0000020DD10AC700][0000020DC6CB4900 49] iPadAir2, [0000020DD0FBD600][0000020DC6D6EBC0 49] IPadPro, [0000020DD0FBD700][0000020DC6CB8C00 49] iPadAir3, [0000020DD10AF700][0000020DC6D72D80 49] iPadAir4, [0000020DD0FBC900][0000020DC6D76F00 49] iPadMini2, [0000020DD10AC300][0000020DC6D7F080 49] iPadMini3, [0000020DD0FBE100][0000020DC6D87200 49] iPadMini4, [0000020DD10AF400][0000020DC6D8B380 49] iPadMini5, [0000020DD1066600][0000020DC6C9D600 49] iPhone6, [0000020DD1066500][0000020DC6D8F640 49] iPodTouch6, [0000020DD0FBFC00][0000020DC6DA3880 49] iPhone7, [0000020DD0FBFB00][0000020DC6D9F8C0 49] iPodTouch7, [0000020DD1066B00][0000020DC6DA7A00 49] iPhone5S, [0000020DD0FBFF00][0000020DC6DAFB80 49] iPhone6Plus, [0000020DD1065E00][0000020DC6DB3D00 49] iPhone6S, [0000020DD0FBF300][0000020DC6DB61C0 49] iPhone6SPlus, [0000020DD1066A00][0000020DC6DBA340 49] iPhone7Plus, [0000020DD0FBC100][0000020DC6DBE4C0 49] iPhoneSE, [0000020DD1065900][0000020DC6DDA640 49] iPhone8, [0000020DD0FBEE00][0000020DC6DDE7C0 49] iPhone8Plus, [0000020DD1067800][0000020DC6DE2940 49] iPhoneX, [0000020DD0FBC400][0000020DC6DE6AC0 49] iPhoneXS, [0000020DD1065600][0000020DC6DEAC40 49] iPhoneXSMax, [0000020DD0FBEB00][0000020DC6DEEDC0 49] iPhoneXR, [0000020DD1067D00][0000020DC6E12F40 49] iPhone11, [0000020DD0FBF100][0000020DC6E170C0 49] iPhone11Pro, [0000020DD1066800][0000020DC6E1B240 49] iPhone11ProMax, [0000020DD0FBEA00][0000020DC6E1F3C0 49] iPhoneSE2, [0000020DD1067A00][0000020DC6E23540 49] iPhone12Mini, [0000020DD0FBF600][0000020DC6DAB680 49] iPhone12, [0000020DD1067100][0000020DC6E277C0 49] iPhone12Pro, [0000020DD0FBE800][0000020DC6E2B900 49] iPhone12ProMax, [0000020DD1064100][0000020DC6E2FA40 49] iPadPro105, [0000020DD0FBEF00][0000020DC6E37BC0 49] iPadPro129, [0000020DD1065B00][0000020DC6E3BD40 49] iPadPro97, [0000020DD0FBE500][0000020DC6E3E200 49] iPadPro2_129, [0000020DD1064200][0000020DC6E42380 49] iPad5, [0000020DD0FBD900][0000020DC6E46500 49] iPad6, [0000020DD1064D00][0000020DC6E4A680 49] iPad7, [0000020DD0FBE300][0000020DC6E4E800 49] iPad8, [0000020DD1064C00][0000020DC6E52980 49] iPadPro11, [0000020DD0FBE600][0000020DC6E56B00 49] iPadPro2_11, [0000020DD1065C00][0000020DC6E5AC80 49] iPadPro3_129, [0000020DD0FBC500][0000020DC6E5EE00 49] iPadPro4_129, [0000020DD1065F00][0000020DC6E62F80 49] AppleTV, [0000020DD0FBF700][0000020DC6E67100 49] AppleTV4K, [0000020DD1067200][0000020DC6E6B280 49] TVOS, [0000020DD0FBD400][0000020DC6E6F400 49] Mac, [0000020DD1064900][0000020DC6E73580 49] MacClient, [0000020DD0FBD800][0000020DC6E77700 49] MacNoEditor, [0000020DD1064F00][0000020DC6E33840 49] MacServer, [0000020DD0FBCA00][0000020DC6E7B980 49] Linux, [0000020DD1067600][0000020DC6E7FAC0 49] LinuxAArch64, [0000020DD0FBE700][0000020DC6E87C40 49] LinuxNoEditor, [0000020DD1066F00][0000020DC6E8A100 49] LinuxAArch64NoEditor, [0000020DD0FBD200][0000020DC6E8E280 49] LinuxClient, [0000020DD1064B00][0000020DC6E92400 49] LinuxAArch64Client, [0000020DD0FBEC00][0000020DC6E96580 49] LinuxServer, [0000020DD1064300][0000020DC6E9A700 49] LinuxAArch64Server, [0000020DD0FBED00][0000020DC6E9E880 49] Android, [0000020DD10ACA00][0000020DC6EA2A00 49] Android_Low, [0000020DD0110800][0000020DC6EA6B80 49] Android_Mid, [0000020DD10AD600][0000020DC6EAAD00 49] Android_High, [0000020DD0111600][0000020DC6EAEE80 49] Android_Default, [0000020DD10ADC00][0000020DC6EB3000 49] Android_Adreno4xx, [0000020DD0110200][0000020DC6EB7180 49] Android_Adreno5xx_Low, [0000020DD10ACE00][0000020DC6EBB300 49] Android_Adreno5xx, [0000020DD0111900][0000020DC66B1480 49] Android_Adreno6xx, [0000020DD10AC100][0000020DC66B5600 49] Android_Adreno6xx_Vulkan, [0000020DD0110E00][0000020DC66B9780 49] Android_Mali_T6xx, [0000020DD10AE000][0000020DC6E838C0 49] Android_Mali_T7xx, [0000020DD0110600][0000020DC66BDA00 49] Android_Mali_T8xx, [0000020DD10AE800][0000020DC66C1B40 49] Android_Mali_G71, [0000020DD0111100][0000020DC66C9CC0 49] Android_Mali_G72, [0000020DD10AEE00][0000020DC66CC180 49] Android_Mali_G72_Vulkan, [0000020DD0110A00][0000020DC66D0300 49] Android_Mali_G76, [0000020DD10ADA00][0000020DC66D4480 49] Android_Mali_G76_Vulkan, [0000020DD0110300][0000020DC66D8600 49] Android_Mali_G77, [0000020DD10AFF00][0000020DC66DC780 49] Android_Mali_G77_Vulkan, [0000020DD0111400][0000020DC66E0900 49] Android_Vulkan_SM5, [0000020DD10AE300][0000020DC66E4A80 49] Android_PowerVR_G6xxx, [0000020DD0111300][0000020DC66E8C00 49] Android_PowerVR_GT7xxx, [0000020DD0FBD500][0000020DC66ECD80 49] Android_PowerVR_GE8xxx, [0000020DD1065700][0000020DC66F0F00 49] Android_PowerVR_GM9xxx, [0000020DD0FBF800][0000020DC66F5080 49] Android_PowerVR_GM9xxx_Vulkan, [0000020DD1067000][0000020DC66F9200 49] Android_TegraK1, [0000020DD0FBFD00][0000020DC66FD380 49] Android_Unknown_Vulkan, [0000020DD1065D00][0000020DC6701500 49] Lumin, [0000020DD0FBDF00][0000020DC6705680 49] Lumin_Desktop, [0000020DD1067300][0000020DC6709800 49] HoloLens, 
+[2021.07.27-15.29.36:986][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.27-15.29.36:986][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.27-15.29.36:986][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.27-15.29.36:986][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.27-15.29.36:986][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.27-15.29.37:001][  0]LogNetVersion: VirtexDesignTest 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 476686073)
+[2021.07.27-15.29.37:421][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.031622 seconds
+[2021.07.27-15.29.37:427][  0]LogUObjectArray: 16664 objects as part of root set at end of initial load.
+[2021.07.27-15.29.37:427][  0]LogUObjectAllocator: 4164736 out of 0 bytes used by permanent object pool.
+[2021.07.27-15.29.37:427][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.27-15.29.37:755][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.27-15.29.37:762][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.27-15.29.37:880][  0]LogMaterial: Display: Missing cached shader map for material WebTexture_M, compiling. 
+[2021.07.27-15.29.37:897][  0]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 9
+[2021.07.27-15.29.37:897][  0]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 8
+[2021.07.27-15.29.37:897][  0]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 7
+[2021.07.27-15.29.37:897][  0]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 6
+[2021.07.27-15.29.37:897][  0]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 5
+[2021.07.27-15.29.37:897][  0]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 4
+[2021.07.27-15.29.37:897][  0]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 3
+[2021.07.27-15.29.37:897][  0]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 2
+[2021.07.27-15.29.37:897][  0]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 1
+[2021.07.27-15.29.37:897][  0]LogMaterial: Display: Missing cached shader map for material WebTexture_TM, compiling. 
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 15
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 14
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 13
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 12
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 11
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 10
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 9
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (17/21): shaders left to compile 8
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (18/21): shaders left to compile 7
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (19/21): shaders left to compile 6
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (20/21): shaders left to compile 5
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (21/21): shaders left to compile 4
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 3
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 2
+[2021.07.27-15.29.39:255][  0]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 1
+[2021.07.27-15.29.39:299][  0]SourceControl: Source control is disabled
+[2021.07.27-15.29.39:299][  0]SourceControl: Source control is disabled
+[2021.07.27-15.29.39:301][  0]SourceControl: Source control is disabled
+[2021.07.27-15.29.39:351][  0]SourceControl: Source control is disabled
+[2021.07.27-15.29.39:360][  0]SourceControl: Source control is disabled
+[2021.07.27-15.29.39:367][  0]LogUProjectInfo: Found projects:
+[2021.07.27-15.29.39:417][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.27-15.29.39:431][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.27-15.29.39:431][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.27-15.29.39:595][  0]LogCollectionManager: Loaded 0 collections in 0.000685 seconds
+[2021.07.27-15.29.39:652][  0]LogFileCache: Scanning file cache for directory 'F:/Virtex/Design-Challenge/Saved/Collections/' took 0.00s
+[2021.07.27-15.29.39:652][  0]LogFileCache: Scanning file cache for directory 'F:/Virtex/Design-Challenge/Content/Developers/darkh/Collections/' took 0.00s
+[2021.07.27-15.29.39:652][  0]LogFileCache: Scanning file cache for directory 'F:/Virtex/Design-Challenge/Content/Collections/' took 0.00s
+[2021.07.27-15.29.39:652][  0]LogEngine: Initializing Engine...
+[2021.07.27-15.29.39:653][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.27-15.29.39:745][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.27-15.29.39:757][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.27-15.29.39:767][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.27-15.29.39:771][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.27-15.29.39:771][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.27-15.29.39:771][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.27-15.29.39:771][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.27-15.29.39:771][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.27-15.29.39:771][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.27-15.29.39:771][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.27-15.29.39:771][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.27-15.29.39:771][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.27-15.29.39:771][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.27-15.29.39:771][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.27-15.29.39:771][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.27-15.29.39:780][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.27-15.29.39:780][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.27-15.29.39:832][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.27-15.29.39:835][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.27-15.29.39:837][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.27-15.29.39:837][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.27-15.29.39:838][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.27-15.29.39:838][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.27-15.29.39:838][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.27-15.29.39:839][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.27-15.29.39:839][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.27-15.29.39:839][  0]LogInit: FAudioDevice initialized.
+[2021.07.27-15.29.39:839][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.27-15.29.39:839][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.27-15.29.39:930][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/darkh/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.27-15.29.39:934][  0]LogInit: Texture streaming: Enabled
+[2021.07.27-15.29.39:946][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.07.27-15.29.39:949][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.27-15.29.39:950][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.27-15.29.39:951][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.27-15.29.39:982][  0]LogInit: Transaction tracking system initialized
+[2021.07.27-15.29.40:001][  0]BlueprintLog: New page: Editor Load
+[2021.07.27-15.29.40:063][  0]LocalizationService: Localization service is disabled
+[2021.07.27-15.29.40:083][  0]TimingProfiler: Initialize
+[2021.07.27-15.29.40:083][  0]TimingProfiler: OnSessionChanged
+[2021.07.27-15.29.40:083][  0]LoadingProfiler: Initialize
+[2021.07.27-15.29.40:083][  0]LoadingProfiler: OnSessionChanged
+[2021.07.27-15.29.40:083][  0]NetworkingProfiler: Initialize
+[2021.07.27-15.29.40:083][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.27-15.29.40:083][  0]MemoryProfiler: Initialize
+[2021.07.27-15.29.40:083][  0]MemoryProfiler: OnSessionChanged
+[2021.07.27-15.29.40:195][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.27-15.29.40:195][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.27-15.29.40:345][  0]LogFileCache: Scanning file cache for directory 'F:/Virtex/Design-Challenge/Content/' took 0.00s
+[2021.07.27-15.29.40:345][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.27-15.29.40:348][  0]SourceControl: Source control is disabled
+[2021.07.27-15.29.40:348][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.674
+[2021.07.27-15.29.40:348][  0]Cmd: MAP LOAD FILE="F:/Virtex/Design-Challenge/Content/DesignTest/Maps/DesignTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.27-15.29.40:348][  0]LightingResults: New page: Lighting Build
+[2021.07.27-15.29.40:349][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.27-15.29.40:349][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.27-15.29.40:349][  0]MapCheck: New page: Map Check
+[2021.07.27-15.29.40:349][  0]LightingResults: New page: Lighting Build
+[2021.07.27-15.29.40:360][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.07.27-15.29.40:438][  0]LogBlueprint: Warning: [AssetLog] F:\Virtex\Design-Challenge\Content\DefaultVRContent\VirtualRealityBP\Blueprints\BP_MotionController.uasset: [Compiler] OnComponentHit (ControllerMesh)  does not have a valid matching component!
+[2021.07.27-15.29.40:528][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'DesignTestMap'.
+[2021.07.27-15.29.40:529][  0]LogAIModule: Creating AISystem for world DesignTestMap
+[2021.07.27-15.29.40:533][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.27-15.29.40:540][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.07.27-15.29.40:540][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.27-15.29.40:540][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2021.07.27-15.29.40:540][  0]LogFileHelpers: Loading map 'DesignTestMap' took 0.192
+[2021.07.27-15.29.40:547][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.873
+[2021.07.27-15.29.40:684][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.27-15.29.40:689][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.27-15.29.40:694][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.27-15.29.40:699][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.27-15.29.40:712][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0093 seconds. Added 3583 classes and 846 folders.
+[2021.07.27-15.29.40:713][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.27-15.29.40:715][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.27-15.29.40:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.27-15.29.40:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.07.27-15.29.40:716][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.27-15.29.40:716][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:716][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.27-15.29.40:716][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.07.27-15.29.40:717][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.27-15.29.40:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.27-15.29.40:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.07.27-15.29.40:717][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.27-15.29.40:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.27-15.29.40:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.07.27-15.29.40:718][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.27-15.29.40:718][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:718][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.27-15.29.40:718][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.07.27-15.29.40:718][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.27-15.29.40:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.27-15.29.40:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.07.27-15.29.40:719][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.27-15.29.40:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.27-15.29.40:719][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.07.27-15.29.40:720][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.27-15.29.40:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.27-15.29.40:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.07.27-15.29.40:720][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.27-15.29.40:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.27-15.29.40:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.07.27-15.29.40:721][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.27-15.29.40:721][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:721][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.27-15.29.40:721][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.07.27-15.29.40:722][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.27-15.29.40:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.27-15.29.40:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.07.27-15.29.40:722][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.27-15.29.40:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.27-15.29.40:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.07.27-15.29.40:723][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.27-15.29.40:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.27-15.29.40:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.07.27-15.29.40:724][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.27-15.29.40:724][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:724][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.27-15.29.40:724][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.07.27-15.29.40:724][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.27-15.29.40:724][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:724][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.27-15.29.40:724][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.07.27-15.29.40:725][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.27-15.29.40:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.27-15.29.40:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.07.27-15.29.40:726][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.27-15.29.40:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.27-15.29.40:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.07.27-15.29.40:726][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.27-15.29.40:726][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.27-15.29.40:726][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.07.27-15.29.40:727][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.27-15.29.40:727][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:727][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.27-15.29.40:727][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.07.27-15.29.40:728][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.27-15.29.40:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.27-15.29.40:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.07.27-15.29.40:728][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.27-15.29.40:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.27-15.29.40:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.07.27-15.29.40:729][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.27-15.29.40:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.27-15.29.40:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.07.27-15.29.40:730][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.27-15.29.40:730][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:730][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.27-15.29.40:730][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.07.27-15.29.40:730][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.27-15.29.40:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.27-15.29.40:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.07.27-15.29.40:731][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.27-15.29.40:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.27-15.29.40:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.07.27-15.29.40:732][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.27-15.29.40:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.27-15.29.40:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.27-15.29.40:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.07.27-15.29.40:780][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.27-15.29.40:781][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2021.07.27-15.29.40:925][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.27-15.29.40:926][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.27-15.29.40:930][  0]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.27-15.29.41:002][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 26 NumSamples 1 (Frame:1).
+[2021.07.27-15.29.41:145][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.07.27-15.29.41:145][  0]LogLoad: (Engine Initialization) Total time: 7.47 seconds
+[2021.07.27-15.29.41:145][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.27-15.29.41:145][  0]LogInit: First time updating LLM stats...
+[2021.07.27-15.29.41:177][  0]LogAssetRegistry: Asset discovery search completed in 4.4868 seconds
+[2021.07.27-15.29.41:178][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.07.27-15.29.41:197][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.27-15.29.41:269][  5]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.27-15.30.31:591][662]LogSlate: Window 'Plugins' being destroyed
+[2021.07.27-15.30.31:595][662]LogSlate: Window 'Plugins' being destroyed
+[2021.07.27-15.30.31:595][662]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.07.27-15.30.38:477][465]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.27-15.30.38:498][465]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/DesignTest/UI/ScreenWidget.ScreenWidget
+[2021.07.27-15.30.38:603][465]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.07.27-15.30.39:587][465]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.27-15.31.01:552][925]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.07.27-15.31.01:565][925]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.07.27-15.31.05:560][403]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WebWidget
+[2021.07.27-15.31.05:569][403]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.07.27-15.31.12:291][198]Cmd: SELECT NONE
+[2021.07.27-15.36.23:367][104]LogRenderer: Reallocating scene render targets to support 1284x680 Format 26 NumSamples 1 (Frame:17720).
+[2021.07.27-15.36.23:430][105]LogRenderer: Reallocating scene render targets to support 1844x1072 Format 26 NumSamples 1 (Frame:17722).
+[2021.07.27-15.36.23:506][106]LogRenderer: Reallocating scene render targets to support 1860x1080 Format 26 NumSamples 1 (Frame:17724).
+[2021.07.27-15.36.25:131][287]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.07.27-15.39.41:494][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.07.27-15.39.41:513][935]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/DesignTestMap_Auto19E6322DF41114C8007D08AA7814A616E.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/Maps/DesignTestMap_Auto1.umap'
+[2021.07.27-15.39.41:514][935]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DesignTest/Maps/DesignTestMap' took 0.074
+[2021.07.27-15.39.41:514][935]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2021.07.27-15.51.34:545][301]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/DesignTest/UI/WebWidget.WebWidget
+[2021.07.27-15.52.12:675][903]LogSlate: Took 0.000417 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.27-15.58.29:556][500]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2021.07.27-15.58.30:104][500]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.27-15.58.31:589][602]BlueprintLog: New page: Compile BP_MotionController
+[2021.07.27-15.58.31:598][602]LogBlueprint: Warning: [AssetLog] F:\Virtex\Design-Challenge\Content\DefaultVRContent\VirtualRealityBP\Blueprints\BP_MotionController.uasset: [Compiler] OnComponentHit (ControllerMesh)  does not have a valid matching component!
+[2021.07.27-15.58.31:677][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.07.27-15.59.42:098][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.07.27-15.59.42:100][946]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DesignTest/Maps/DesignTestMap' took 0.032
+[2021.07.27-15.59.42:100][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2021.07.27-15.59.42:109][946]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2021.07.27-15.59.42:109][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController]
+[2021.07.27-15.59.42:228][946]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/BP_MotionController_Auto2AB7B44A94C0250C325D6E996590C4640.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController_Auto2.uasset'
+[2021.07.27-15.59.42:229][946]LogFileHelpers: Auto-saving content packages took 0.129
+[2021.07.27-16.10.16:336][668]BlueprintLog: New page: Compile WebWidget
+[2021.07.27-16.10.16:369][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.07.27-16.12.22:073][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DesignTest/UI/WebWidget" FILE="F:/Virtex/Design-Challenge/Content/DesignTest/UI/WebWidget.uasset" SILENT=true
+[2021.07.27-16.12.22:076][669]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/WebWidget268AAD934781F7FD3C9D17940F69E432.tmp' to 'F:/Virtex/Design-Challenge/Content/DesignTest/UI/WebWidget.uasset'
+[2021.07.27-16.12.22:094][669]AssetCheck: New page: Asset Save: WebWidget
+[2021.07.27-16.12.22:094][669]LogContentValidation: Display: Validating WidgetBlueprint /Game/DesignTest/UI/WebWidget.WebWidget
+[2021.07.27-16.15.14:637][691]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/BP_MotionController29E09FCE47324DA38F131386B09952CE.tmp' to 'F:/Virtex/Design-Challenge/Content/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2021.07.27-16.15.14:657][691]AssetCheck: New page: Asset Save: BP_MotionController
+[2021.07.27-16.15.14:657][691]LogContentValidation: Display: Validating Blueprint /Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2021.07.27-16.15.15:283][743]BlueprintLog: New page: Compile BP_MotionController
+[2021.07.27-16.15.15:369][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.07.27-16.15.52:813][197]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.27-16.15.52:838][197]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.27-16.16.05:060][656]LogContentBrowser: Attempting asset rename: NewFolder -> NewAssets
+[2021.07.27-16.16.05:061][656]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.27-16.16.16:335][960]LogMetaData: Removing '/Game/NewAssets/WebWidget.SKEL_WebWidget_C' ref from Metadata '/Game/DesignTest/UI/WebWidget.PackageMetaData'
+[2021.07.27-16.16.16:335][960]LogMetaData: Removing '/Game/NewAssets/WebWidget.WebWidget_C' ref from Metadata '/Game/DesignTest/UI/WebWidget.PackageMetaData'
+[2021.07.27-16.16.16:335][960]LogMetaData: Removing '/Game/NewAssets/WebWidget.WebWidget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/DesignTest/UI/WebWidget.PackageMetaData'
+[2021.07.27-16.16.16:335][960]LogMetaData: Removing '/Game/NewAssets/WebWidget.WebWidget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/DesignTest/UI/WebWidget.PackageMetaData'
+[2021.07.27-16.16.16:335][960]LogMetaData: Removing '/Game/NewAssets/WebWidget.WebWidget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/DesignTest/UI/WebWidget.PackageMetaData'
+[2021.07.27-16.16.16:335][960]LogMetaData: Removing '/Game/NewAssets/WebWidget.SKEL_WebWidget_C:PreConstruct' ref from Metadata '/Game/DesignTest/UI/WebWidget.PackageMetaData'
+[2021.07.27-16.16.16:335][960]LogMetaData: Removing '/Game/NewAssets/WebWidget.SKEL_WebWidget_C:Construct' ref from Metadata '/Game/DesignTest/UI/WebWidget.PackageMetaData'
+[2021.07.27-16.16.16:335][960]LogMetaData: Removing '/Game/NewAssets/WebWidget.SKEL_WebWidget_C:Tick' ref from Metadata '/Game/DesignTest/UI/WebWidget.PackageMetaData'
+[2021.07.27-16.16.16:353][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAssets/WebWidget" FILE="F:/Virtex/Design-Challenge/Content/NewAssets/WebWidget.uasset" SILENT=true
+[2021.07.27-16.16.16:356][960]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/WebWidgetF70487404B4D487BBCDF0B9808D80512.tmp' to 'F:/Virtex/Design-Challenge/Content/NewAssets/WebWidget.uasset'
+[2021.07.27-16.16.16:448][960]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.07.27-16.16.16:482][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.07.27-16.16.16:506][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.07.27-16.16.16:550][960]AssetCheck: New page: Asset Save: WebWidget
+[2021.07.27-16.16.16:550][960]LogContentValidation: Display: Validating WidgetBlueprint /Game/NewAssets/WebWidget.WebWidget
+[2021.07.27-16.16.24:135][423]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.07.27-16.16.24:141][423]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.07.27-16.16.24:153][423]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.07.27-16.16.31:394][292]LogContentBrowser: Attempting asset rename: NewBlueprint -> ButtonToOpenWeb
+[2021.07.27-16.16.31:402][292]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.07.27-16.16.33:786][572]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewAssets/ButtonToOpenWeb.ButtonToOpenWeb
+[2021.07.27-16.16.40:882][138]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 63
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 59
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 55
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 51
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (5/21): shaders left to compile 47
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (6/21): shaders left to compile 43
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (7/21): shaders left to compile 39
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (8/21): shaders left to compile 35
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (9/21): shaders left to compile 31
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (10/21): shaders left to compile 27
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (11/21): shaders left to compile 23
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (12/21): shaders left to compile 19
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (13/21): shaders left to compile 15
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (14/21): shaders left to compile 11
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (15/21): shaders left to compile 7
+[2021.07.27-16.16.40:988][139]LogShaderCompilers: Display: Worker (16/21): shaders left to compile 3
+[2021.07.27-16.17.13:591][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.07.27-16.17.13:603][864]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/DesignTestMap_Auto35B77DF70466B1BA22F028FB10BD69F99.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/Maps/DesignTestMap_Auto3.umap'
+[2021.07.27-16.17.13:604][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DesignTest/Maps/DesignTestMap' took 0.049
+[2021.07.27-16.17.13:604][864]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2021.07.27-16.19.48:397][346]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:397][346]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:410][347]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:410][347]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:410][347]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:423][348]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:423][348]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:423][348]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:436][349]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:436][349]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:436][349]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:449][350]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:450][350]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:450][350]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:464][351]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:464][351]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:464][351]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:477][352]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:478][352]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:478][352]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:490][353]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:491][353]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:491][353]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:503][354]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:504][354]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:504][354]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:517][355]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:517][355]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:517][355]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:530][356]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:530][356]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:530][356]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:543][357]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:543][357]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:543][357]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:556][358]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:556][358]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:556][358]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:569][359]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:570][359]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:570][359]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:583][360]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:583][360]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:583][360]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:597][361]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:597][361]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:597][361]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:610][362]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:610][362]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:611][362]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:624][363]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:624][363]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:624][363]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:637][364]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:638][364]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:638][364]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:651][365]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:651][365]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:651][365]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:665][366]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:665][366]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:665][366]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:679][367]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:679][367]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:679][367]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:692][368]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:693][368]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:693][368]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:706][369]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:706][369]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:706][369]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:719][370]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:720][370]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:720][370]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:732][371]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:733][371]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:733][371]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:745][372]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:746][372]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:746][372]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:759][373]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:759][373]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:759][373]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:772][374]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:773][374]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:773][374]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:785][375]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:786][375]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:786][375]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:798][376]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:799][376]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:799][376]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:811][377]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:812][377]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:812][377]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:825][378]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.19.48:825][378]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.ButtonToOpenWeb_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2021.07.27-16.20.10:688][ 56]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.27-16.31.41:740][573]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.27-16.32.57:860][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.07.27-16.32.57:863][820]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DesignTest/Maps/DesignTestMap' took 0.041
+[2021.07.27-16.32.57:863][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2021.07.27-16.32.57:876][820]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2021.07.27-16.32.57:876][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController]
+[2021.07.27-16.32.57:994][820]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/BP_MotionController_Auto46AE60E1D41CAAD3A089ECEBE928A18B1.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController_Auto4.uasset'
+[2021.07.27-16.32.57:994][820]LogFileHelpers: Auto-saving content packages took 0.132
+[2021.07.27-16.42.58:491][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.07.27-16.42.58:494][201]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DesignTest/Maps/DesignTestMap' took 0.033
+[2021.07.27-16.42.58:494][201]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2021.07.27-16.42.58:502][201]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2021.07.27-16.42.58:502][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController]
+[2021.07.27-16.42.58:619][201]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/BP_MotionController_Auto5CAE133294145F3CDF72E73AD62733F9D.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController_Auto5.uasset'
+[2021.07.27-16.42.58:619][201]LogFileHelpers: Auto-saving content packages took 0.125
+[2021.07.27-16.43.17:033][672]LogEditorViewport: Clicking on Actor (LMB): BP_Screen_C (BP_Screen)
+[2021.07.27-16.43.37:893][ 50]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DesignTest/UI/BP_Screen.BP_Screen
+[2021.07.27-16.44.46:058][910]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/DesignTest/Maps/DesignTestMap.DesignTestMap:PersistentLevel.DesignTestMap
+[2021.07.27-16.47.33:963][942]BlueprintLog: New page: Compile BP_Screen
+[2021.07.27-16.47.34:039][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.07.27-16.52.58:288][797]LogSlate: Window 'Plugins' being destroyed
+[2021.07.27-16.52.58:293][797]LogSlate: Window 'Plugins' being destroyed
+[2021.07.27-16.52.58:293][797]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.07.27-16.53.24:926][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.07.27-16.53.24:941][285]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/DesignTestMap_Auto626ED806D433BFDC4C69E3FB55F801E72.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/Maps/DesignTestMap_Auto6.umap'
+[2021.07.27-16.53.24:942][285]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DesignTest/Maps/DesignTestMap' took 0.057
+[2021.07.27-16.53.24:942][285]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2021.07.27-16.53.24:942][285]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DesignTest/UI/BP_Screen] ([1] browsable assets)...
+[2021.07.27-16.53.24:942][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/DesignTest/UI/BP_Screen]
+[2021.07.27-16.53.24:942][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DesignTest/UI/BP_Screen" FILE="F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/UI/BP_Screen_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.07.27-16.53.24:945][285]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/BP_Screen_Auto684898ED440300551BB4081B4D4FE764C.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/UI/BP_Screen_Auto6.uasset'
+[2021.07.27-16.53.24:946][285]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.07.27-16.57.47:879][936]LogEditorTransaction: Undo Rename Variable
+[2021.07.27-16.58.12:764][594]BlueprintLog: New page: Compile BP_Screen
+[2021.07.27-16.58.12:823][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.07.27-17.03.41:273][197]LogEditorViewport: Clicking on Actor (LMB): BP_Screen_C (BP_Screen)
+[2021.07.27-17.04.03:452][543]LogSlate: Window 'Color Picker' being destroyed
+[2021.07.27-17.04.08:401][928]BlueprintLog: New page: Compile ScreenWidget
+[2021.07.27-17.04.08:484][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.07.27-17.05.42:502][748]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.27-17.09.37:399][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.07.27-17.09.37:414][690]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/DesignTestMap_Auto79178C8FA44A62346D34BE2A0BB760020.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/Maps/DesignTestMap_Auto7.umap'
+[2021.07.27-17.09.37:415][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DesignTest/Maps/DesignTestMap' took 0.056
+[2021.07.27-17.09.37:415][690]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2021.07.27-17.09.37:415][690]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DesignTest/UI/BP_Screen] ([2] browsable assets)...
+[2021.07.27-17.09.37:415][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/DesignTest/UI/BP_Screen]
+[2021.07.27-17.09.37:415][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DesignTest/UI/BP_Screen" FILE="F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/UI/BP_Screen_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2021.07.27-17.09.37:420][690]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/BP_Screen_Auto71719A0C14EADFE18016257B3CB8991ED.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/UI/BP_Screen_Auto7.uasset'
+[2021.07.27-17.09.37:420][690]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DesignTest/UI/ScreenWidget] ([1] browsable assets)...
+[2021.07.27-17.09.37:420][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/DesignTest/UI/ScreenWidget]
+[2021.07.27-17.09.37:420][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DesignTest/UI/ScreenWidget" FILE="F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/UI/ScreenWidget_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2021.07.27-17.09.37:425][690]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/ScreenWidget_Auto7FDEC546E40BACB2AB22DD2931D8B8D3A.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/UI/ScreenWidget_Auto7.uasset'
+[2021.07.27-17.09.37:425][690]LogFileHelpers: Auto-saving content packages took 0.011
+[2021.07.27-17.10.09:947][530]BlueprintLog: New page: Compile WebWidget
+[2021.07.27-17.10.09:985][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.07.27-17.10.11:911][685]BlueprintLog: New page: Compile BP_Screen
+[2021.07.27-17.10.11:983][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.07.27-17.10.12:886][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DesignTest/UI/BP_Screen" FILE="F:/Virtex/Design-Challenge/Content/DesignTest/UI/BP_Screen.uasset" SILENT=true
+[2021.07.27-17.10.12:891][753]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/BP_ScreenE7731F6E46FA63D034DBD096D82F8425.tmp' to 'F:/Virtex/Design-Challenge/Content/DesignTest/UI/BP_Screen.uasset'
+[2021.07.27-17.10.12:904][753]AssetCheck: New page: Asset Save: BP_Screen
+[2021.07.27-17.10.12:904][753]LogContentValidation: Display: Validating Blueprint /Game/DesignTest/UI/BP_Screen.BP_Screen
+[2021.07.27-17.10.15:252][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAssets/WebWidget" FILE="F:/Virtex/Design-Challenge/Content/NewAssets/WebWidget.uasset" SILENT=true
+[2021.07.27-17.10.15:255][931]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/WebWidget25D01DE449CCCAAFF314258EB179F1E2.tmp' to 'F:/Virtex/Design-Challenge/Content/NewAssets/WebWidget.uasset'
+[2021.07.27-17.10.15:269][931]AssetCheck: New page: Asset Save: WebWidget
+[2021.07.27-17.10.15:269][931]LogContentValidation: Display: Validating WidgetBlueprint /Game/NewAssets/WebWidget.WebWidget
+[2021.07.27-17.10.16:368][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DesignTest/UI/ScreenWidget" FILE="F:/Virtex/Design-Challenge/Content/DesignTest/UI/ScreenWidget.uasset" SILENT=true
+[2021.07.27-17.10.16:374][ 25]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/ScreenWidget5C50D6144381C745CA6ACC8443D345E0.tmp' to 'F:/Virtex/Design-Challenge/Content/DesignTest/UI/ScreenWidget.uasset'
+[2021.07.27-17.10.16:387][ 25]AssetCheck: New page: Asset Save: ScreenWidget
+[2021.07.27-17.10.16:387][ 25]LogContentValidation: Display: Validating WidgetBlueprint /Game/DesignTest/UI/ScreenWidget.ScreenWidget
+[2021.07.27-17.10.16:794][ 62]BlueprintLog: New page: Compile ScreenWidget
+[2021.07.27-17.10.16:874][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.07.27-17.10.17:603][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DesignTest/UI/ScreenWidget" FILE="F:/Virtex/Design-Challenge/Content/DesignTest/UI/ScreenWidget.uasset" SILENT=true
+[2021.07.27-17.10.17:608][129]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/ScreenWidget1ED3949946C3EF6153A61481D521DDCA.tmp' to 'F:/Virtex/Design-Challenge/Content/DesignTest/UI/ScreenWidget.uasset'
+[2021.07.27-17.10.17:622][129]AssetCheck: New page: Asset Save: ScreenWidget
+[2021.07.27-17.10.17:622][129]LogContentValidation: Display: Validating WidgetBlueprint /Game/DesignTest/UI/ScreenWidget.ScreenWidget
+[2021.07.27-17.10.19:059][234]BlueprintLog: New page: Compile BP_MotionController
+[2021.07.27-17.10.19:151][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.07.27-17.10.20:077][279]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/BP_MotionController7DD9D618489DE0B2009532899361BA60.tmp' to 'F:/Virtex/Design-Challenge/Content/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2021.07.27-17.10.20:096][279]AssetCheck: New page: Asset Save: BP_MotionController
+[2021.07.27-17.10.20:096][279]LogContentValidation: Display: Validating Blueprint /Game/DefaultVRContent/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2021.07.27-17.10.26:765][812]BlueprintLog: New page: Compile DesignTestMap
+[2021.07.27-17.10.26:819][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.07.27-17.10.27:359][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DesignTest/Maps/DesignTestMap" FILE="F:/Virtex/Design-Challenge/Content/DesignTest/Maps/DesignTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.27-17.10.27:392][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.27-17.10.27:404][863]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/DesignTestMap5C6087054C571BA24AC153BA24BDE31F.tmp' to 'F:/Virtex/Design-Challenge/Content/DesignTest/Maps/DesignTestMap.umap'
+[2021.07.27-17.10.27:415][863]LogFileHelpers: Saving map 'DesignTestMap' took 0.056
+[2021.07.27-17.10.27:433][863]AssetCheck: New page: Asset Save: DesignTestMap
+[2021.07.27-17.10.27:433][863]LogContentValidation: Display: Validating World /Game/DesignTest/Maps/DesignTestMap.DesignTestMap
+[2021.07.27-17.12.21:431][788]LogSlate: Took 0.006556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.07.27-17.20.27:549][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.07.27-17.20.27:563][581]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/DesignTestMap_Auto836F2E7F144BC39E762714CA990738655.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/Maps/DesignTestMap_Auto8.umap'
+[2021.07.27-17.20.27:564][581]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DesignTest/Maps/DesignTestMap' took 0.056
+[2021.07.27-17.20.27:564][581]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2021.07.27-17.21.41:573][803]BlueprintLog: New page: Compile ButtonToOpenWeb
+[2021.07.27-17.21.41:627][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.07.27-17.21.42:581][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAssets/ButtonToOpenWeb" FILE="F:/Virtex/Design-Challenge/Content/NewAssets/ButtonToOpenWeb.uasset" SILENT=true
+[2021.07.27-17.21.42:593][872]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/ButtonToOpenWeb3FB1E9F545F2435F2ABCBBB7D1EF303E.tmp' to 'F:/Virtex/Design-Challenge/Content/NewAssets/ButtonToOpenWeb.uasset'
+[2021.07.27-17.21.42:607][872]AssetCheck: New page: Asset Save: ButtonToOpenWeb
+[2021.07.27-17.21.42:607][872]LogContentValidation: Display: Validating Blueprint /Game/NewAssets/ButtonToOpenWeb.ButtonToOpenWeb
+[2021.07.27-17.21.54:676][ 15]LogTemp: Repeating last play command: VR Preview
+[2021.07.27-17.21.54:682][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.27-17.21.54:684][ 15]PIE: New page: PIE session: DesignTestMap (27 Jul 2021, 19:21:54)
+[2021.07.27-17.21.54:687][ 15]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.27-17.21.54:689][ 15]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.27-17.21.54:689][ 15]LogPlayLevel: Creating play world package: /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap
+[2021.07.27-17.21.54:694][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005398s)
+[2021.07.27-17.21.54:695][ 15]LogAIModule: Creating AISystem for world DesignTestMap
+[2021.07.27-17.21.54:695][ 15]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2021.07.27-17.21.54:696][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DesignTest/Maps/DesignTestMap.DesignTestMap to /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap.DesignTestMap (0.006767s)
+[2021.07.27-17.21.54:729][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.07.27-17.21.54:731][ 15]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.27-17.21.54:731][ 15]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.27-17.21.54:731][ 15]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.27-17.21.54:731][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.27-17.21.54:731][ 15]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.27-17.21.54:731][ 15]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.27-17.21.54:731][ 15]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.27-17.21.54:731][ 15]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.27-17.21.54:731][ 15]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.27-17.21.54:732][ 15]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.27-17.21.54:732][ 15]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.27-17.21.54:737][ 15]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.27-17.21.54:737][ 15]LogAudioMixer: Display: 1: FrontRight
+[2021.07.27-17.21.54:752][ 15]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.07.27-17.21.54:753][ 15]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.27-17.21.54:753][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.27-17.21.54:753][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.27-17.21.54:753][ 15]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.27-17.21.54:753][ 15]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.27-17.21.54:753][ 15]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.27-17.21.54:766][ 15]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.27-17.21.54:766][ 15]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.27-17.21.54:766][ 15]LogInit: FAudioDevice initialized.
+[2021.07.27-17.21.54:766][ 15]LogAudio: Display: Audio Device (ID: 2) registered with world 'DesignTestMap'.
+[2021.07.27-17.21.54:777][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.27-17.21.56:849][ 15]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{14f95616-961e-4929-8375-c1850c4d1848}.
+[2021.07.27-17.21.56:849][ 15]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{14f95616-961e-4929-8375-c1850c4d1848}.
+[2021.07.27-17.21.56:849][ 15]LogLoad: Game class is 'GameModeBase'
+[2021.07.27-17.21.56:851][ 15]LogWorld: Bringing World /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap.DesignTestMap up for play (max tick rate 0) at 2021.07.27-18.21.56
+[2021.07.27-17.21.56:852][ 15]LogWorld: Bringing up level for play took: 0.001829
+[2021.07.27-17.21.56:858][ 15]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.07.27-17.21.56:869][ 15]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2021.07.27-17.21.56:883][ 15]PIE: Server logged in
+[2021.07.27-17.21.56:885][ 15]PIE: Play in editor total start time 2.203 seconds.
+[2021.07.27-17.21.56:893][ 15]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.27-17.21.56:921][ 15]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.27-17.21.56:921][ 15]LogAudioMixer: Display: 1: FrontRight
+[2021.07.27-17.21.56:965][ 15]LogAudioMixer: Resetting audio stream to device id 
+[2021.07.27-17.21.57:013][ 15]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.27-17.21.57:013][ 15]LogAudioMixer: Display: 1: FrontRight
+[2021.07.27-17.21.57:501][ 17]LogRenderer: Warning: Resizing VR buffer to 3864 by 2148
+[2021.07.27-17.21.57:501][ 17]LogRenderer: Reallocating scene render targets to support 3864x2148 Format 26 NumSamples 1 (Frame:1).
+[2021.07.27-17.22.12:901][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.27-17.22.12:901][111]LogWorld: BeginTearingDown for /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap
+[2021.07.27-17.22.12:997][111]LogSlate: Window 'VirtexDesignTest Preview [NetMode: Standalone]  (64-bit/Windows) OpenXR' being destroyed
+[2021.07.27-17.22.13:001][111]LogWorld: UWorld::CleanupWorld for DesignTestMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.27-17.22.13:001][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.27-17.22.13:011][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.27-17.22.13:024][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.27-17.22.13:067][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.27-17.22.13:067][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.27-17.22.13:069][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.27-17.22.13:139][111]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.07.27-17.22.13:166][112]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.07.27-17.22.15:094][178]LogTemp: Repeating last play command: VR Preview
+[2021.07.27-17.22.15:101][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.27-17.22.15:101][178]PIE: New page: PIE session: DesignTestMap (27 Jul 2021, 19:22:15)
+[2021.07.27-17.22.15:101][178]LogPlayLevel: Creating play world package: /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap
+[2021.07.27-17.22.15:106][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004651s)
+[2021.07.27-17.22.15:107][178]LogAIModule: Creating AISystem for world DesignTestMap
+[2021.07.27-17.22.15:107][178]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2021.07.27-17.22.15:107][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DesignTest/Maps/DesignTestMap.DesignTestMap to /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap.DesignTestMap (0.005810s)
+[2021.07.27-17.22.15:155][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.07.27-17.22.15:156][178]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.27-17.22.15:156][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.27-17.22.15:156][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.27-17.22.15:156][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.27-17.22.15:156][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.27-17.22.15:156][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.27-17.22.15:156][178]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.27-17.22.15:156][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.27-17.22.15:156][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.27-17.22.15:156][178]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.27-17.22.15:156][178]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.27-17.22.15:161][178]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.27-17.22.15:161][178]LogAudioMixer: Display: 1: FrontRight
+[2021.07.27-17.22.15:170][178]LogAudioMixer: Display: Using Audio Device Index HMD (NVIDIA High Definition Audio)
+[2021.07.27-17.22.15:170][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.27-17.22.15:170][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.27-17.22.15:170][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.27-17.22.15:171][178]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.27-17.22.15:171][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.27-17.22.15:171][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.27-17.22.15:183][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.27-17.22.15:183][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.27-17.22.15:183][178]LogInit: FAudioDevice initialized.
+[2021.07.27-17.22.15:183][178]LogAudio: Display: Audio Device (ID: 3) registered with world 'DesignTestMap'.
+[2021.07.27-17.22.15:194][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.27-17.22.15:284][178]LogLoad: Game class is 'GameModeBase'
+[2021.07.27-17.22.15:286][178]LogWorld: Bringing World /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap.DesignTestMap up for play (max tick rate 0) at 2021.07.27-18.22.15
+[2021.07.27-17.22.15:286][178]LogWorld: Bringing up level for play took: 0.000822
+[2021.07.27-17.22.15:286][178]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.07.27-17.22.15:294][178]PIE: Server logged in
+[2021.07.27-17.22.15:296][178]PIE: Play in editor total start time 0.196 seconds.
+[2021.07.27-17.23.24:160][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.27-17.23.24:160][263]LogWorld: BeginTearingDown for /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap
+[2021.07.27-17.23.24:229][263]LogSlate: Window 'VirtexDesignTest Preview [NetMode: Standalone]  (64-bit/Windows) OpenXR' being destroyed
+[2021.07.27-17.23.24:233][263]LogWorld: UWorld::CleanupWorld for DesignTestMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.27-17.23.24:233][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.27-17.23.24:244][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.27-17.23.24:263][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.27-17.23.24:307][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.27-17.23.24:309][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.27-17.23.24:388][263]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.07.27-17.23.24:415][264]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.07.27-17.24.49:958][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DesignTest/Maps/DesignTestMap" FILE="F:/Virtex/Design-Challenge/Content/DesignTest/Maps/DesignTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.27-17.24.50:003][934]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.07.27-17.24.50:015][934]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/DesignTestMap9BBDFB6E4CC7653605147C887E76A7A7.tmp' to 'F:/Virtex/Design-Challenge/Content/DesignTest/Maps/DesignTestMap.umap'
+[2021.07.27-17.24.50:037][934]AssetCheck: New page: Asset Save: DesignTestMap
+[2021.07.27-17.24.50:037][934]LogContentValidation: Display: Validating World /Game/DesignTest/Maps/DesignTestMap.DesignTestMap
+[2021.07.27-17.24.52:688][247]LogEditorViewport: Clicking on Actor (LMB): ButtonToOpenWeb_C (ButtonToOpenWeb)
+[2021.07.27-17.29.09:277][ 64]BlueprintLog: New page: Compile ButtonToOpenWeb
+[2021.07.27-17.29.09:348][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.07.27-17.29.18:479][795]LogTemp: Repeating last play command: VR Preview
+[2021.07.27-17.29.18:488][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.27-17.29.18:488][795]PIE: New page: PIE session: DesignTestMap (27 Jul 2021, 19:29:18)
+[2021.07.27-17.29.18:488][795]LogPlayLevel: Creating play world package: /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap
+[2021.07.27-17.29.18:493][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004367s)
+[2021.07.27-17.29.18:494][795]LogAIModule: Creating AISystem for world DesignTestMap
+[2021.07.27-17.29.18:494][795]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2021.07.27-17.29.18:494][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DesignTest/Maps/DesignTestMap.DesignTestMap to /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap.DesignTestMap (0.005680s)
+[2021.07.27-17.29.18:534][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.07.27-17.29.18:536][795]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.07.27-17.29.18:536][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.27-17.29.18:536][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.27-17.29.18:536][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.27-17.29.18:536][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.27-17.29.18:536][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.27-17.29.18:536][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.27-17.29.18:536][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.27-17.29.18:536][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.27-17.29.18:537][795]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.27-17.29.18:537][795]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.27-17.29.18:541][795]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.27-17.29.18:541][795]LogAudioMixer: Display: 1: FrontRight
+[2021.07.27-17.29.18:550][795]LogAudioMixer: Display: Using Audio Device Index HMD (NVIDIA High Definition Audio)
+[2021.07.27-17.29.18:551][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.27-17.29.18:551][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.27-17.29.18:551][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.27-17.29.18:551][795]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.27-17.29.18:551][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.27-17.29.18:551][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.27-17.29.18:563][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.27-17.29.18:563][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.27-17.29.18:563][795]LogInit: FAudioDevice initialized.
+[2021.07.27-17.29.18:563][795]LogAudio: Display: Audio Device (ID: 4) registered with world 'DesignTestMap'.
+[2021.07.27-17.29.18:575][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.27-17.29.18:661][795]LogLoad: Game class is 'GameModeBase'
+[2021.07.27-17.29.18:662][795]LogWorld: Bringing World /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap.DesignTestMap up for play (max tick rate 0) at 2021.07.27-18.29.18
+[2021.07.27-17.29.18:662][795]LogWorld: Bringing up level for play took: 0.000817
+[2021.07.27-17.29.18:662][795]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.07.27-17.29.18:670][795]PIE: Server logged in
+[2021.07.27-17.29.18:672][795]PIE: Play in editor total start time 0.188 seconds.
+[2021.07.27-17.29.58:604][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.27-17.29.58:604][358]LogWorld: BeginTearingDown for /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap
+[2021.07.27-17.29.58:712][358]LogSlate: Window 'VirtexDesignTest Preview [NetMode: Standalone]  (64-bit/Windows) OpenXR' being destroyed
+[2021.07.27-17.29.58:715][358]LogWorld: UWorld::CleanupWorld for DesignTestMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.27-17.29.58:715][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.27-17.29.58:727][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.27-17.29.58:740][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.27-17.29.58:777][358]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.27-17.29.58:778][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.27-17.29.58:779][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.27-17.29.58:800][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.07.27-17.29.58:847][359]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.07.27-17.35.30:493][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.07.27-17.35.30:508][284]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/DesignTestMap_Auto97E508AE746036705954B548F76A9533C.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/DesignTest/Maps/DesignTestMap_Auto9.umap'
+[2021.07.27-17.35.30:509][284]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DesignTest/Maps/DesignTestMap' took 0.065
+[2021.07.27-17.35.30:510][284]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2021.07.27-17.35.30:510][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewAssets/ButtonToOpenWeb] ([1] browsable assets)...
+[2021.07.27-17.35.30:531][284]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/NewAssets/ButtonToOpenWeb.ButtonToOpenWeb]
+[2021.07.27-17.35.30:531][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewAssets/ButtonToOpenWeb]
+[2021.07.27-17.35.30:531][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAssets/ButtonToOpenWeb" FILE="F:/Virtex/Design-Challenge/Saved/Autosaves/Game/NewAssets/ButtonToOpenWeb_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2021.07.27-17.35.30:544][284]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/ButtonToOpenWeb_Auto94037CC474C70092E549CF7BA6E7AC0EA.tmp' to 'F:/Virtex/Design-Challenge/Saved/Autosaves/Game/NewAssets/ButtonToOpenWeb_Auto9.uasset'
+[2021.07.27-17.35.30:544][284]LogFileHelpers: Auto-saving content packages took 0.035
+[2021.07.27-17.44.28:239][695]BlueprintLog: New page: Compile BP_Screen
+[2021.07.27-17.44.28:309][695]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.07.27-17.44.30:360][865]BlueprintLog: New page: Compile ScreenWidget
+[2021.07.27-17.44.30:450][865]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.07.27-17.44.56:586][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DesignTest/UI/BP_Screen" FILE="F:/Virtex/Design-Challenge/Content/DesignTest/UI/BP_Screen.uasset" SILENT=true
+[2021.07.27-17.44.56:590][  0]LogSavePackage: Moving 'F:/Virtex/Design-Challenge/Saved/BP_ScreenD6B72B184602FEEAB2FC4399FB10D0A4.tmp' to 'F:/Virtex/Design-Challenge/Content/DesignTest/UI/BP_Screen.uasset'
+[2021.07.27-17.44.56:605][  0]AssetCheck: New page: Asset Save: BP_Screen
+[2021.07.27-17.44.56:605][  0]LogContentValidation: Display: Validating Blueprint /Game/DesignTest/UI/BP_Screen.BP_Screen
+[2021.07.27-17.45.16:801][892]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.07.27-17.45.26:237][942]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DefaultVRContent/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2021.07.27-17.46.26:490][283]BlueprintLog: New page: Compile ButtonToOpenWeb
+[2021.07.27-17.46.26:563][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.07.27-17.46.27:804][376]LogTemp: Repeating last play command: VR Preview
+[2021.07.27-17.46.27:809][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.27-17.46.27:809][376]PIE: New page: PIE session: DesignTestMap (27 Jul 2021, 19:46:27)
+[2021.07.27-17.46.27:810][376]LogPlayLevel: Creating play world package: /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap
+[2021.07.27-17.46.27:814][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004315s)
+[2021.07.27-17.46.27:815][376]LogAIModule: Creating AISystem for world DesignTestMap
+[2021.07.27-17.46.27:815][376]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2021.07.27-17.46.27:815][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DesignTest/Maps/DesignTestMap.DesignTestMap to /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap.DesignTestMap (0.005315s)
+[2021.07.27-17.46.27:859][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.07.27-17.46.27:861][376]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.07.27-17.46.27:861][376]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.27-17.46.27:861][376]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.27-17.46.27:861][376]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.27-17.46.27:861][376]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.27-17.46.27:861][376]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.27-17.46.27:861][376]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.27-17.46.27:861][376]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.27-17.46.27:861][376]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.27-17.46.27:861][376]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.27-17.46.27:861][376]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.27-17.46.27:866][376]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.27-17.46.27:866][376]LogAudioMixer: Display: 1: FrontRight
+[2021.07.27-17.46.27:875][376]LogAudioMixer: Display: Using Audio Device Index HMD (NVIDIA High Definition Audio)
+[2021.07.27-17.46.27:876][376]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.27-17.46.27:876][376]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.27-17.46.27:876][376]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.27-17.46.27:876][376]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.27-17.46.27:876][376]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.27-17.46.27:876][376]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.27-17.46.27:888][376]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.27-17.46.27:888][376]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.27-17.46.27:888][376]LogInit: FAudioDevice initialized.
+[2021.07.27-17.46.27:888][376]LogAudio: Display: Audio Device (ID: 5) registered with world 'DesignTestMap'.
+[2021.07.27-17.46.27:900][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.27-17.46.27:995][376]LogLoad: Game class is 'GameModeBase'
+[2021.07.27-17.46.27:996][376]LogWorld: Bringing World /Game/DesignTest/Maps/UEDPIE_0_DesignTestMap.DesignTestMap up for play (max tick rate 0) at 2021.07.27-18.46.27
+[2021.07.27-17.46.27:996][376]LogWorld: Bringing up level for play took: 0.001151
+[2021.07.27-17.46.27:997][376]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.07.27-17.46.28:005][376]PIE: Server logged in
+[2021.07.27-17.46.28:006][376]PIE: Play in editor total start time 0.197 seconds.
+[2021.07.27-17.46.28:899][379]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.582 s
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: === Handled ensure: ===
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: 
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: Ensure condition failed: ((Result) >= 0) [File:D:/Build/++UE4/Sync/Engine/Plugins/Runtime/OpenXR/Source/OpenXRHMD/Private/OpenXRHMD_Swapchain.cpp] [Line: 86]
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: OpenXR call failed with result XR_ERROR_HANDLE_INVALID
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: Stack: 
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff8f2408b2c UE4Editor-OpenXRHMD.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff8f23fd9c6 UE4Editor-OpenXRHMD.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff8f23f95a0 UE4Editor-OpenXRHMD.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff8f23fccf7 UE4Editor-OpenXRHMD.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff8ff144ff9 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff8ff144da4 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff8ff151ba9 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff9229e2ecc UE4Editor-RHI.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff9229e7b23 UE4Editor-RHI.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff9229e753c UE4Editor-RHI.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff9229e8859 UE4Editor-RHI.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff9229d9fa5 UE4Editor-RHI.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff8fef04689 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff8feef904a UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff8fef0e735 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff9139eecdc UE4Editor-Core.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff9139ef0ce UE4Editor-Core.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff972d3a5c2 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff972d42c94 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff913f4898b UE4Editor-Core.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff913f41620 UE4Editor-Core.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff9bb5d7034 KERNEL32.DLL!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: [Callstack] 0x00007ff9bcac2651 ntdll.dll!UnknownFunction []
+[2021.07.27-17.46.28:899][379]LogOutputDevice: Error: 
+[2021.07.27-17.46.28:899][379]LogStats:                SubmitErrorReport -  0.000 s
